@@ -1,3 +1,4 @@
+
 const caixaPrincipal = document.querySelector('.caixa-principal');
 const caixaPerguntas = document.querySelector('.caixa-perguntas');
 const caixaAlternativas = document.querySelector('.caixa-alternativa');
@@ -6,11 +7,11 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
 {
- enunciado: "Inseira o enunciado da Pergunta 1",
- alternativas: ["Alternativas 1", "Alternativas 2"]
+ enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e aúdios hiper-realistas. Qual o primeiro pensamento?",
+ alternativas: ["Isso é asssustador!", "Isso é maravilhoso!"]
 },
 {
-    enunciado: "Insira o enunciado da Pergunta 2",
+    enunciado: "aaaa",
     alternativas: ["Alternativa 1","Alternativa 2" ]
 },
 {
